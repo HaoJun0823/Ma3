@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ma3": {
+      "commandName": "Project",
+      "commandLineArgs": "-input This_is_ma3 -key 6789 -debug -recovery"
+    }
+  }
+}
